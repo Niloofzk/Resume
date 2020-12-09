@@ -2,7 +2,7 @@
 <span Style="font-family:calibri">
 <Span Style="Color:#438797 ; font-size:16px">**Niloofar Siahpolo**</Span> &nbsp; &nbsp; &nbsp; &nbsp; <span Style="font-size:10.5px">San Jose, CA &nbsp; &nbsp; &nbsp;  (408) 796-9232 &nbsp; &nbsp; &nbsp; &nbsp;  Niloofar.Siahpolo@gmail.com
 
-<span Style="font-size:12px">[LinkedIn Profile](www.linkedin.com/in/niloofar-siahpolo)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<span Style="font-size:12px">[LinkedIn Profile](https://www.linkedin.com/in/niloofar-siahpolo)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [Portfolio Page](https://niloofar-siahpolo.webflow.io/)</span>
 
 <Span Style="Color:#438797 ; font-size:14px">**Education**</span>
